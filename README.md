@@ -5,8 +5,9 @@ I continue to learn in many areas with interests being in
 Python  
 SQL  
 Python mySQL  
-Flutter
+Flutter  
 Machine Learning  
+
 
 
 - 🔭 I’m currently working on
