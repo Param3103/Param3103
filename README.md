@@ -12,7 +12,7 @@ Machine Learning
 
 - 🔭 I’m currently working on
 - 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with HTML 
 - 📫 How to reach me: Follow me on Dev
 -  https://dev.to/param3103
 <!--
