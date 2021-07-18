@@ -7,6 +7,7 @@ SQL
 Python mySQL  
 Flutter  
 Machine Learning  
+HTML
 
 
 
