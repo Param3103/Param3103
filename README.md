@@ -11,9 +11,9 @@ HTML
 
 
 
-- 🔭 I’m currently working on lunch ordering system
-- 🌱 I’m currently learning java
-- 🤔 I’m looking for help with java 
+- 🔭 I’m currently working on sentiment analysis
+- 🌱 I’m currently learning nltk
+- 🤔 I’m looking for help with nltk
 - 📫 How to reach me: Follow me on Dev
 -  https://dev.to/param3103
 <!--
